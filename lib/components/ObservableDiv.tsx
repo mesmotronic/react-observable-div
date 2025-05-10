@@ -43,3 +43,5 @@ export class ObservableDiv extends PureComponent<ResizeDivProps> {
   }
 
 }
+
+export default ObservableDiv;
